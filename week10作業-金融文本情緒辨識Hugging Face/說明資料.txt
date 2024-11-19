@@ -1,1 +1,9 @@
 
+使用 Hugging Face 框架建立 BERT 模型，針對金融領域文本進行情緒分析訓練。
+可使用以下提供的資料集，或選擇其他適合的金融文本資料集。
+資料集網址：https://huggingface.co/datasets/takala/financial_phrasebank
+ 
+輸出範例：
+47142c4cafad288c0b7240689a6f6eb4.png
+ 
+作業上傳格式：繳交 GitHub 連結
