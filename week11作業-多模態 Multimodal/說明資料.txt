@@ -1,1 +1,14 @@
 
+說明
+設計一個多模態模型，採用(a)早期融合、(b)晚期融合或(c)中期融合的方式進行數據整合（擇一實現）。多模態資料來源可包括以下組合之一：
+    1. 新聞情緒指標 + 股價資料
+    2. K 線圖 + 股價資料
+模型目標可針對分類任務（如股價漲跌預測）或回歸任務（如股價變動幅度預測）。
+ 
+模型融合參考：
+d4de4e0e0f4a23664357b7a8d8d5ede7.png
+ 
+新聞+股價資料集：https://www.kaggle.com/competitions/stock-market-prediction-and-sentimental-analysis/data
+
+ 
+作業上傳格式：繳交 GitHub 連結
